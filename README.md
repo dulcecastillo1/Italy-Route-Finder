@@ -13,7 +13,8 @@ Italy Route Finder is a Java desktop program that displays a map of Italy with 2
 ---
 
 ## Demo
-<img width="1396" height="825" alt="Screenshot 2025-10-18 at 12 10 12 AM" src="https://github.com/user-attachments/assets/8f59557f-783a-4797-b164-c5c5cb9bfed7" />
+<img width="1396" height="825" alt="Screenshot 2025-10-18 at 12 12 21 AM" src="https://github.com/user-attachments/assets/12302798-e907-49b3-bede-e45612fc38b1" />
+
 
 
 
